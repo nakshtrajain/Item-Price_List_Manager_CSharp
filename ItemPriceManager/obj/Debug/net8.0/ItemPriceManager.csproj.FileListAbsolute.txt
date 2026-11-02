@@ -1,0 +1,14 @@
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Debug/net8.0/ItemPriceManager
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Debug/net8.0/ItemPriceManager.deps.json
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Debug/net8.0/ItemPriceManager.runtimeconfig.json
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Debug/net8.0/ItemPriceManager.dll
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Debug/net8.0/ItemPriceManager.pdb
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ItemPriceManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ItemPriceManager.AssemblyInfoInputs.cache
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ItemPriceManager.AssemblyInfo.cs
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ItemPriceManager.csproj.CoreCompileInputs.cache
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ItemPriceManager.dll
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/refint/ItemPriceManager.dll
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ItemPriceManager.pdb
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ItemPriceManager.genruntimeconfig.cache
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/obj/Debug/net8.0/ref/ItemPriceManager.dll

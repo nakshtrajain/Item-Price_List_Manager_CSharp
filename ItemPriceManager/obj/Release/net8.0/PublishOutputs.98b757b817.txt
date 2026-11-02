@@ -1,0 +1,5 @@
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Release/net8.0/publish/ItemPriceManager
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Release/net8.0/publish/ItemPriceManager.dll
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Release/net8.0/publish/ItemPriceManager.deps.json
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Release/net8.0/publish/ItemPriceManager.runtimeconfig.json
+/home/nakshtrajain/New_Clean_Projects/ItemPriceManager/bin/Release/net8.0/publish/ItemPriceManager.pdb
